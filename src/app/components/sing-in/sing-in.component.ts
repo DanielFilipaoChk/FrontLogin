@@ -21,7 +21,7 @@ export class SingInComponent implements OnInit {
     if(this.name == '' || this.lastname == '' || this.credential == '' || this.email == '' || this.password == '' || this.repeatPassword == '') {
       alert('Los datos no pueden estar vacios');
   }else{
-    alert('El usuario se ha registrado correctamente');
+    alert('El usuario se ha registrado correctamenteee');
   }
 }
 
